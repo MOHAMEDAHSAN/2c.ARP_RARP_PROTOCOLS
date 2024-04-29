@@ -1,6 +1,4 @@
 # EXP : 2c - SIMULATING ARP /RARP PROTOCOLS
-## NAME : S MOHAMED AHSAN
-## REG NO : 212223240089
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
